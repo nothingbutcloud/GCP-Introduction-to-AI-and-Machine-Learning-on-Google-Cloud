@@ -14,4 +14,6 @@ When you complete this course, you can earn the badge displayed here! View all t
 
 ## Generative AI
 
+## Summary
+
 #
