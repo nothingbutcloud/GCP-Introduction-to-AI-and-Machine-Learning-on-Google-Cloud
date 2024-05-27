@@ -8,4 +8,10 @@ When you complete this course, you can earn the badge displayed here! View all t
 
 ## AI Foundations
 
+## AI Development Options
+
+## AI Development Workflow
+
+## Generative AI
+
 #
