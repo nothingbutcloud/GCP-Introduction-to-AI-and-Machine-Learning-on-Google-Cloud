@@ -32,7 +32,7 @@ When you complete this course, you can earn the badge displayed here! View all t
 ### [AutoML](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470141)
 ### [Custom training](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470142)
 ### [Lab introduction](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470143)
-### [Entity and Sentiment Analysis with the Natural Language API: Lab](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/labs/470144)
+### [Entity and Sentiment Analysis with the Natural Language API: Lab](./Labs/GSP038%20-%20Entity%20and%20Sentiment%20Analysis%20with%20the%20Natural%20Language%20API/README.md)
 ### [Summary](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470145)
 ### [Quiz](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/quizzes/470146)
 ### [Reading](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/documents/470147)
