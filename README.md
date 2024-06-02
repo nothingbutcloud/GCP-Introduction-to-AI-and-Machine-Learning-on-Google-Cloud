@@ -10,6 +10,13 @@ When you complete this course, you can earn the badge displayed here! View all t
 
 ## AI Foundations
 
+### [Introduction](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470125)
+### [Why AI](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470126)
+### [AI/ML architecture on Google Cloud](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470127)
+### [Google Cloud infrastructure](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470128)
+### [Data and AI products](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470129)
+
+
 ## AI Development Options
 
 ## AI Development Workflow
