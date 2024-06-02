@@ -15,7 +15,13 @@ When you complete this course, you can earn the badge displayed here! View all t
 ### [AI/ML architecture on Google Cloud](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470127)
 ### [Google Cloud infrastructure](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470128)
 ### [Data and AI products](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470129)
-
+### [ML model categories](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470130)
+### [BigQuery ML](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470131)
+### [Lab introduction](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470132)
+### [Predicting Visitor Purchases with BigQuery ML: Lab](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/labs/470133)
+### [Summary](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470134)
+### [Quiz](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/quizzes/470135)
+### [Reading](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/documents/470136)
 
 ## AI Development Options
 
