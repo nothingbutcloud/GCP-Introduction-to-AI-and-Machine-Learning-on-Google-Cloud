@@ -18,7 +18,7 @@ When you complete this course, you can earn the badge displayed here! View all t
 ### [ML model categories](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470130)
 ### [BigQuery ML](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470131)
 ### [Lab introduction](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470132)
-### [Predicting Visitor Purchases with BigQuery ML: Lab](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/labs/470133)
+### [Predicting Visitor Purchases with BigQuery ML: Lab](./Labs/Predicting%20Visitor%20Purchases%20with%20BigQuery%20ML/README.md)
 ### [Summary](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470134)
 ### [Quiz](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/quizzes/470135)
 ### [Reading](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/documents/470136)
