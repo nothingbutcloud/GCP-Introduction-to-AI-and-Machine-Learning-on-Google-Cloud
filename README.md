@@ -6,7 +6,7 @@ When you complete this course, you can earn the badge displayed here! View all t
 
 ## Introduction
 
-#### [Course Introduction](https://www.cloudskillsboost.google/paths/17/course_templates/593)
+### [Course Introduction](https://www.cloudskillsboost.google/paths/17/course_templates/593)
 
 ## AI Foundations
 
