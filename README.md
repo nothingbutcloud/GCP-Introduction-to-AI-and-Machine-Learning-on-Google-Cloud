@@ -25,10 +25,51 @@ When you complete this course, you can earn the badge displayed here! View all t
 
 ## AI Development Options
 
+### [Introduction]https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470137)
+### [AI developement options](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470138)
+### [Pre-trained APIs](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470139)
+### [Vertex AI](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470140)
+### [AutoML](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470141)
+### [Custom training](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470142)
+### [Lab introduction](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470143)
+### [Entity and Sentiment Analysis with the Natural Language API: Lab](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/labs/470144)
+### [Summary](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470145)
+### [Quiz](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/quizzes/470146)
+### [Reading](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/documents/470147)
+
 ## AI Development Workflow
+
+### [Introduction](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470148)
+### [ML workflow](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470149)
+### [Data preparation](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470150)
+### [Model development](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470151)
+### [Model serving](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470152)
+### [MLOps and workflow automation](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470153)
+### [Lab introduction](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470154)
+### [How a machine learns](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470155)
+### [Vertex AI: Predicting Loan Risk with AutoML: Lab](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/labs/470156)
+### [Summary](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470157)
+### [Quiz](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/quizzes/470158)
+### [Reading](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/documents/470159)
 
 ## Generative AI
 
+### [Introduction](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470160)
+### [Generative AI and workflow](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470161)
+### [Gemini multimodal](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470162)
+### [Prompt design](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470163)
+### [Model tuning](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470164)
+### [Model Garden](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470165)
+### [AI solutions](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470166)
+### [Lab introduction](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470167)
+### [Get Started with Vertex AI Studio 1 hour: Lab](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/labs/470168)
+### [Summary](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470169)
+### [Quiz](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/quizzes/470170)
+### [Reading](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/documents/470171)
+
 ## Summary
+
+### [Course summary](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470172)
+### [Reading](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/documents/470173)
 
 #
