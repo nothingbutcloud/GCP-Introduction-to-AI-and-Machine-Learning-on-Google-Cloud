@@ -47,7 +47,7 @@ When you complete this course, you can earn the badge displayed here! View all t
 ### [MLOps and workflow automation](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470153)
 ### [Lab introduction](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470154)
 ### [How a machine learns](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470155)
-### [Vertex AI: Predicting Loan Risk with AutoML: Lab](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/labs/470156)
+### [Vertex AI: Predicting Loan Risk with AutoML: Lab](./Labs/Vertex%20AI%20Predicting%20Loan%20Risk%20with%20AutoML/README.md)
 ### [Summary](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470157)
 ### [Quiz](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/quizzes/470158)
 ### [Reading](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/documents/470159)
