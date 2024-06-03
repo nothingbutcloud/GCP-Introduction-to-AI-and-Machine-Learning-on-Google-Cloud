@@ -62,7 +62,7 @@ When you complete this course, you can earn the badge displayed here! View all t
 ### [Model Garden](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470165)
 ### [AI solutions](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470166)
 ### [Lab introduction](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470167)
-### [Get Started with Vertex AI Studio 1 hour: Lab](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/labs/470168)
+### [Get Started with Vertex AI Studio 1 hour: Lab](./Labs/GSP1154%20-%20Get%20Started%20with%20Vertex%20AI%20Studio/README.md)
 ### [Summary](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/video/470169)
 ### [Quiz](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/quizzes/470170)
 ### [Reading](https://www.cloudskillsboost.google/paths/17/course_sessions/13699500/documents/470171)
